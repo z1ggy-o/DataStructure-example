@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestDynamicArray",
+            "request": "launch",
+            "mainClass": "TestDynamicArray"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Employee",
+            "request": "launch",
+            "mainClass": "Employee"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestArray",
+            "request": "launch",
+            "mainClass": "TestArray"
+        }
+    ]
+}
